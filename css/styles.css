@@ -1,6 +1,10 @@
 :root {
-    --darkgreen: #2F3E46;
+    --darkgreen: #2f3e46;
     --paddingimg: 300px 0 300px 0;
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 /* aleo-100 - latin */
@@ -175,9 +179,9 @@ body {
   z-index: 999;
 }
 
-#wrapper {
-  margin: 200px auto;
-}
+/*#wrapper {
+  margin: 500px auto;
+}*/
 
 .hero {
   background-image: url(../images/hero_light.jpg);
