@@ -599,6 +599,10 @@ nav {
       display: none;
     }
 
+    .probestreifenhand {
+      display: none;
+    }
+
 
 
 
@@ -781,6 +785,10 @@ nav {
         margin: 20px auto;
         height: 250px;
       }
+
+      .probestreifenhand {
+        display: block;
+      }
     }
 
 
@@ -847,6 +855,9 @@ nav {
       .home {
         padding-left: 100px;
         padding-right: 100px;
+      }
+      .probestreifenhand {
+        display: none;
       }
 
       /*.paddingimg {
